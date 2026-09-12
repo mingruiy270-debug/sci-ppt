@@ -2,12 +2,12 @@
 name: sci-ppt
 description: Create evidence-led academic PowerPoint presentations from papers, documents and figure assets, or reconstruct reference diagrams as editable PowerPoint. Use for journal clubs, lab meetings, thesis talks, paper-to-PPT and scientific image-to-PPT tasks, with speaker notes and rendered slide checks.
 metadata:
-  version: "1.2.0"
+  version: "1.2.1"
 ---
 
 # sci-ppt skill
 
-版本 1.2.0。默认中文沟通。模型自主理解科学问题、选择证据、决定版式和工具，交付真正可用的可编辑 PPTX。
+版本 1.2.1。默认中文沟通。模型自主理解科学问题、选择证据、决定版式和工具，交付真正可用的可编辑 PPTX。
 
 ## 按任务读取
 
