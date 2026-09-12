@@ -1,0 +1,22 @@
+{
+  "title": "Synthetic academic presentation example",
+  "slides": [{
+    "section": "SYNTHETIC EXAMPLE",
+    "title": "Connect a question to evidence and interpretation",
+    "shapes": [
+      {"box": [0.7, 2.2, 3.1, 2.3], "fill": "EDF5F5"},
+      {"kind": "arrow", "box": [4.0, 3.1, 0.55, 0.3]},
+      {"box": [4.75, 2.2, 3.1, 2.3], "fill": "F1F1F1"},
+      {"kind": "arrow", "box": [8.05, 3.1, 0.55, 0.3]},
+      {"box": [8.8, 2.2, 3.7, 2.3], "fill": "F9EEE9"}
+    ],
+    "texts": [
+      {"text": "Question\nWhat changed?", "box": [0.95, 2.65, 2.6, 1.1], "size": 25},
+      {"text": "Evidence\nMeasure the change", "box": [5.0, 2.65, 2.6, 1.5], "size": 25},
+      {"text": "Interpretation\nExplain the result", "box": [9.05, 2.65, 3.2, 1.5], "size": 25}
+    ],
+    "takeaway": "All boxes, arrows and text are native editable objects.",
+    "source": "Synthetic demonstration; no research data.",
+    "notes": "Demonstrate the presentation structure with native objects. This is not a scientific result."
+  }]
+}

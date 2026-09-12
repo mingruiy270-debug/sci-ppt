@@ -1,0 +1,6 @@
+interface:
+  display_name: "sci-ppt skill"
+  short_description: "从论文或科研参考图制作学术汇报，交付可编辑PPT、讲稿与检查后的预览"
+  default_prompt: "使用 $sci-ppt 将这篇论文及图源制作成证据清晰的中文学术汇报PPT，加入讲稿并检查每页排版。"
+policy:
+  allow_implicit_invocation: true
